@@ -1,0 +1,15 @@
+{
+    "discord": {
+        "token": "",
+        "guild_id": "",
+        "channel_id": ""
+    },
+    "youtube": {
+        "api_key": "",
+        "channel_id": "",
+        "interval": 900
+    },
+    "messages": {
+        "new_video": ""
+    }
+}
